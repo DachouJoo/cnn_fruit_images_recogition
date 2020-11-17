@@ -1,7 +1,7 @@
 # A convolution neural network for fruit images recogition
 
 A convolution neural network based on Lenet-5.
-Structure:
+<h1>Structure:</h1>
 
 Layer (type)                 Output Shape              Param #   
 =================================================================
