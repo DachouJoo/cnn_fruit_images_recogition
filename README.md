@@ -2,20 +2,6 @@
 <html>
 
 <head>
-    <style type="text/css">
-    table, th, td{
-        border-collapse: collapse;
-    }
-    th, td {
-        border-top: 2px solid black;
-        border-bottom: 2px solid black;
-        padding: 15px;
-        text-align: center;
-    }
-    ul, li{
-        list-style-type: none;
-    }
-    </style>
 </head>
 
 <body>
