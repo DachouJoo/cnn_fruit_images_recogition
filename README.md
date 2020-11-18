@@ -15,7 +15,7 @@
             <th>Output Shape</th>
             <th>Parameters</th>
         </tr>
-        <tr style = "text-align": center>
+        <tr style = "text-align: center">
             <td>conv2d (Conv2D)</td>
             <td>(None, 148, 148, 32)</td>
             <td>896</td>
