@@ -9,7 +9,7 @@
     <p>A convolution neural network based on <a href="http://yann.lecun.com/exdb/lenet/"><b>Lenet-5</b></a>
         , implemented by <a href="https://www.tensorflow.org/api_docs/python/tf/keras"><b>tf.Keras</b></a></p>
     <p>Structure:</p>
-    <table>
+    <table style = "text-align: centers;">
         <tr>
             <th>Layer (type)</th>
             <th>Output Shape</th>
