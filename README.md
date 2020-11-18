@@ -6,8 +6,8 @@
 
 <body>
     <h1>A convolution neural network for fruit images recogition</h1>
-    <p>A convolution neural network based on <a href="http://yann.lecun.com/exdb/lenet/" target="_blank"><b>Lenet-5</b></a>
-        , implemented by <a href="https://www.tensorflow.org/api_docs/python/tf/keras" target="_blank"><b>tf.Keras</b></a></p>
+    <p>A convolution neural network based on <a href="http://yann.lecun.com/exdb/lenet/"><b>Lenet-5</b></a>
+        , implemented by <a href="https://www.tensorflow.org/api_docs/python/tf/keras"><b>tf.Keras</b></a></p>
     <p>Structure:</p>
     <table>
         <tr>
