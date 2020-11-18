@@ -15,7 +15,7 @@
             <th>Output Shape</th>
             <th>Parameters</th>
         </tr>
-        <tr>
+        <tr style = "text-align": center>
             <td>conv2d (Conv2D)</td>
             <td>(None, 148, 148, 32)</td>
             <td>896</td>
@@ -57,9 +57,9 @@
         </tr>
     </table>
     <ul>
-        <li>Total params: 42,489,284</li>
-        <li>Trainable params: 42,489,284</li>
-        <li>Non-trainable params: 0</li>
+        <li>Total parameters: 42,489,284</li>
+        <li>Trainable parameters: 42,489,284</li>
+        <li>Non-trainable parameters: 0</li>
     </ul>
 </body>
 
